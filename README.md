@@ -1,6 +1,6 @@
 ## My name is Jaap-Jan van de Geest. I am a Pipeline TD student at the "Nederlandse Filmacademie".
 
-I love building Tools and making improvements to the pipeline at my school. All to make live more easy for my classmates at school. 
+I love building tools and making improvements to the pipeline at my school. All to make life more easy for my classmates at school. 
 
 - 🔭 I’m currently working on improving Botgrid. This is a tool that will grive users slack messages from their updates in ShotGrid. I hope to release this to the public around april.
 
